@@ -13,5 +13,4 @@ Build a simple regression model to predict material properties.
 ## Status
 Work in progress
 ## Results
-## Results
 Includes feature engineering using matminer and Random Forest regression (MAE ~0.44).
